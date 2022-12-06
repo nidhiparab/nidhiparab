@@ -1,4 +1,4 @@
-# 💫 About Me: <img align="right" src="https://user-images.githubusercontent.com/89039068/205987044-73c795d2-73fc-403d-902c-b58acf0defaa.png" width="220">
+# 🧩 About Me: <img align="right" src="https://user-images.githubusercontent.com/89039068/205987044-73c795d2-73fc-403d-902c-b58acf0defaa.png" width="220">
 📊 I’m working on NGO Management Portal for Indian Development Foundation.<br>🌱 I’m currently learning Next.js<br>📖 I’m currently reading ‘One of us Lying’<br>💬“When you’re backed against the wall, break the goddamn thing down.”  -Harvey Specter<br>👨‍💻 All of my projects are available at [https://nidhiparab.github.io/](https://nidhiparab.github.io/)
 
 
