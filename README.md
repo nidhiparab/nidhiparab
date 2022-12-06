@@ -1,5 +1,5 @@
 # 💫 About Me:
-📊 I’m working on NGO Management Portal for Indian Development Foundation.<br>🌱 I’m currently learning Next.js<br>📖 I’m currently reading ‘One of us Lying’<br>💬“When you’re backed against the wall, break the goddamn thing down.”  -Harvey Specter
+📊 I’m working on NGO Management Portal for Indian Development Foundation.<br>🌱 I’m currently learning Next.js<br>📖 I’m currently reading ‘One of us Lying’<br>💬“When you’re backed against the wall, break the goddamn thing down.”  -Harvey Specter<br>👨‍💻 All of my projects are available at [https://nidhiparab.github.io/](https://nidhiparab.github.io/)
 
  [![@nidhiparab's Holopin board](https://holopin.me/nidhiparab)](https://holopin.io/@nidhiparab)
 
