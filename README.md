@@ -1,6 +1,6 @@
 ![gitartwork](gitartwork.svg)
 # 🧩 About Me: <img align="right" src="https://user-images.githubusercontent.com/89039068/205987044-73c795d2-73fc-403d-902c-b58acf0defaa.png" width="220">
-📊 I’m working on Hyspectral Image Image Classification in collaboration with IIT Bombay.<br>🌱 I’m currently learning Next.js<br>📖 I’m currently reading ‘One of Us Is Lying’<br>💬“When you’re backed against the wall, break the goddamn thing down.”  -Harvey Specter<br>👨‍💻 All of my projects are available at [https://nidhiparab.github.io/](https://nidhiparab.github.io/)
+🌱 I’m currently learning .NET<br>📖 I’m currently reading ‘One of Us Is Lying’<br>💬“When you’re backed against the wall, break the goddamn thing down.”  -Harvey Specter<br>👨‍💻 All of my projects are available at [https://nidhiparab.github.io/](https://nidhiparab.github.io/)
 
 
 ## 🌐 Socials:
